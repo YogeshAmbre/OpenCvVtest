@@ -35,13 +35,13 @@ _**#Components of Cypress Framework**_
 
 The following components play a part while executing particular test cases:
 
-•	Spec File: Contains the It(){} blocks where test execution begins. Every spec file has one describe {} block and in which different it{} blocks are contained.
+•	**Spec File**: Contains the It(){} blocks where test execution begins. Every spec file has one describe {} block and in which different it{} blocks are contained.
 
-•	Page Object File: Lists the methods that contain tests’ business logic. These methods comprise the actual Cypress commands to interact with the real application.
+•	**Page Object File**: Lists the methods that contain tests’ business logic. These methods comprise the actual Cypress commands to interact with the real application.
 
-•	Page Selector File: Contains the actual locators of UI elements in a real application.
+•	**Page Selector File**: Contains the actual locators of UI elements in a real application.
 
-•	Constants File: Used to hold any constants used throughout test files.
+•	**Constants File**: Used to hold any constants used throughout test files.
 
 _**#How to perform automation with Cypress. In order to start, users will need the following prerequisites:**_
 
