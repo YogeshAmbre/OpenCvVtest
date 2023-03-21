@@ -1,0 +1,10 @@
+{
+    "valid": {
+        "email": "yogesh.ambre@vtestcorp.com",
+        "password": "Vtest@2023"
+    },
+    "Invalid": {
+        "email": "yogesh.ambre@vtestcorp.com",
+        "password": "Vtest@2022"
+    }
+}
